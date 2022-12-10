@@ -55,9 +55,11 @@ Lint is set according to Airbnb style guide — as part of their style guide.
 [Prettier](https://prettier.io/) is set using my opinionated settings, feel free to [tweak prettier rules](https://prettier.io/docs/en/configuration.html) inside config file `.prettierrc` to match your code style.
 
 ## API
+
 I deployed the server to the heroku and the url is here.
 `https://merpay-api.herokuapp.com/`
 
 ## TODO
+
 - Improve the coverage of the tests including e2e tests
 - Update server to support pagination or infinite scroll in the frontend
