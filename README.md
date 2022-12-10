@@ -17,7 +17,7 @@ Created by using [Create React App](https://github.com/facebook/create-react-app
 - React v18.0.2
 - Type Checker - TypeScript
 - API client - Axios
-- Sass
+- MUI v5
 - State management - Redux Thunk & Toolkit
 - Unit Test - Jest
 - Format & Lint - ESLint & Prettier
@@ -53,6 +53,11 @@ Lint is set according to Airbnb style guide — as part of their style guide.
 ## Format configurations
 
 [Prettier](https://prettier.io/) is set using my opinionated settings, feel free to [tweak prettier rules](https://prettier.io/docs/en/configuration.html) inside config file `.prettierrc` to match your code style.
+
+## App Structure
+I built this app using React v18 and Typescript and also used MUI v5.
+I implemented the unit tests using jest and created two services(Axios and REST).
+I automated lint, prettier, and type checks using husky and also added a pipeline using github actions.
 
 ## API
 
