@@ -57,3 +57,7 @@ Lint is set according to Airbnb style guide — as part of their style guide.
 ## API
 I deployed the server to the heroku and the url is here.
 `https://merpay-api.herokuapp.com/`
+
+## TODO
+- Improve the coverage of the tests including e2e tests
+- Update server to support pagination or infinite scroll in the frontend
